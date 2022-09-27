@@ -1,5 +1,5 @@
 
-<p align="center"><em>Hey there!</em> I'
+<p align="center"><em>Hey there!</em> I'm
 
 <h1 align="center">
   <img src="bracketc.png" width="21"/>
