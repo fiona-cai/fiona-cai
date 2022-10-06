@@ -8,7 +8,6 @@
 </h1>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram:@fcaiona-000?style=flat&logoColor=white&link=https://instagram.com/fcaiona/)](https://instagram.com/fcaiona)
-[![DMOJ Badge](https://img.shields.io/badge/-DMOJ:fcaiona-000?style=flat&logoColor=white&link=https://https://dmoj.ca/user/fcaiona/)](https://https://dmoj.ca/user/fcaiona/)
 [![Gmail Badge](https://img.shields.io/badge/mail:fiona.cai899@gmail.com-000?style=flat&logo=&logoColor=white&link=mailto:fiona.cai899@gmail.com)](mailto:fiona.cai899@gmail.com)
 
 
