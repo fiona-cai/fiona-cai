@@ -17,15 +17,13 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 
-### My Palette
-![#5E3631](https://via.placeholder.com/15/5E3631/5E3631.png) `#5E3631` 
-![#B95C50](https://via.placeholder.com/15/B95C50/B95C50.png) `#B95C50` 
-![#DE847B](https://via.placeholder.com/15/DE847B/DE847B.png) `#DE847B` 
-![#E7ACA6](https://via.placeholder.com/15/E7ACA6/E7ACA6.png) `#E7ACA6` 
-![#F0D4D0](https://via.placeholder.com/15/F0D4D0/F0D4D0.png) `#F0D4D0`
+### Best Color Combo.
+![#4C3B2F](https://via.placeholder.com/15/4C3B2F/4C3B2F.png) `#4C3B2F` 
+![#C1595A](https://via.placeholder.com/15/C1595A/C1595A.png) `#C1595A` 
+![#FAF9F4](https://via.placeholder.com/15/FAF9F4/FAF9F4.png) `#FAF9F4`
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiona-cai&layout=compact&theme=graywhite&hide_border=True&title_color=B95C50&text_color=5E3631)
