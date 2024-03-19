@@ -12,10 +12,9 @@
 - 🌱 I (unregularly) write articles on [medium](https://medium.com/@fiona-cai)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiona-cai&layout=compact&theme=graywhite&hide_border=True&title_color=5C6A58&text_color=323731" />
-
+<img src="https://streak-stats.demolab.com?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C5C6A58%2C323731" alt="mystreak"/>
 </p>
 
-<p align="center">i like making things floral :)</p>
+<p align="center">i like making things green and floral :)</p>
 
 <img src="https://komarev.com/ghpvc/?username=fiona-cai&label=Profile%20views&color=ABCCA3&style=flat" alt="fiona-cai" /> 
