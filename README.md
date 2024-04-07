@@ -9,7 +9,7 @@
 - 🌱 interested in web dev, ux/ui design, and ml/ai
 - 🌱 currently learning react and coding up my personal site!
 - 🌱 founder [@codebuds](https://github.com/codebuds]) and lead org [@yrhacks](https://github.com/yrhacks)
-- 🌱 I (unregularly) write articles on [medium](https://medium.com/@fiona-cai)
+- 🌱 finding my way round [linkedin](https://www.linkedin.com/in/fiona--cai/) (let's connect!)
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C56744E%2C222D1F" alt="mystreak"/>
