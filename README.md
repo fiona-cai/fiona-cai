@@ -8,7 +8,7 @@
 
 - 🌱 interested in web dev, ux/ui design, and ml/ai
 - 🌱 currently learning react and coding up my personal site!
-- 🌱 founder [@codebuds](https://github.com/codebuds]) and lead org [@yrhacks](https://github.com/yrhacks)
+- 🌱 founder [@codebuds](https://github.com/codebuds) and lead org [@yrhacks](https://github.com/yrhacks)
 - 🌱 finding my way round [linkedin](https://www.linkedin.com/in/fiona--cai/) (let's connect!)
 
 <p align="center">
