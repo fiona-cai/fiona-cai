@@ -12,7 +12,7 @@
 - 🌱 finding my way round [linkedin](https://www.linkedin.com/in/fiona--cai/) (let's connect!)
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C56744E%2C222D1F" alt="mystreak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C56744E%2C222D1F" alt="mystreak"/>
 </p>
 
 <p align="center">i like making things green and floral :)</p>
