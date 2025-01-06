@@ -6,7 +6,7 @@
   <img src="IMG_8045-removebg-preview.png" width="21"/>
 </h1>
 
-- 🌱 interested in web dev, ml/ai, and ux/ui design
+- 🌱 interested in hci, ml/ai, and ux/ui design
 - 🌱 currently learning react and coding up my [personal site](https://fiona-cai.vercel.app/)!
 - 🌱 lead org [@yrhacks](https://github.com/yrhacks) and founder [@codebuds](https://github.com/codebuds)
 - 🌱 finding my way round [linkedin](https://www.linkedin.com/in/fiona--cai/) (let's connect!)
