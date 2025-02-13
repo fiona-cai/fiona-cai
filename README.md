@@ -17,8 +17,6 @@
 - 🍵 matcha connoisseur (and hopefully future sushi connoisseur)
 
 
-_happy stalking!_
-
 [![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiona.cai899@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/fiona--cai/)
