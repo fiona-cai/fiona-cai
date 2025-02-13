@@ -22,7 +22,9 @@ _happy stalking!_
 [![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiona.cai899@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/fiona--cai/)
-![Resume](https://img.shields.io/badge/my%20resume-56744E.svg?style=flat-square&logo=readme&logoColor=white)
+<a href="mailto:fiona.cai899@gmail.com?subject=Request%20for%20Resume&body=Dear%20Fiona,%0D%0A%0D%0A[Your%20Message]%0D%0A%0D%0AThank%20you!%0D%0ABest%20regards,%0D%0A[Your%20Name]%0D%0A[Your%20Company]%0D%0A[Your%20Contact%20Information]">
+    <img src="https://img.shields.io/badge/request%20my%20resume-56744E.svg?style=flat-square&logo=readme&logoColor=white" alt="Request My Resume">
+</a>
 
 <div style="text-align: center;" align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C56744E%2C222D1F" alt="mystreak">
