@@ -1,6 +1,7 @@
-<p align=""><em>Hey there!</em> I'm</p>
 
-<h1 align="">
+
+<p><em>Hey there!</em> I'm</p>
+<h1>
   <img src="IMG_8044-removebg-preview.png" width="21"/>
   Fiona Cai
   <img src="IMG_8045-removebg-preview.png" width="21"/>
