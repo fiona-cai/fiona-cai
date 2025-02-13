@@ -18,3 +18,9 @@
 <p align="center">i like making things green and floral :)</p>
 
 <img src="https://komarev.com/ghpvc/?username=fiona-cai&label=Profile%20views&color=56744E&style=flat" alt="fiona-cai" /> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiona-cai/fiona-cai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiona-cai/fiona-cai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fiona-cai/fiona-cai/output/github-contribution-grid-snake.svg">
+</picture>
