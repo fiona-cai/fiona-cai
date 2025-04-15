@@ -25,12 +25,7 @@
     <a href="mailto:fiona.cai899@gmail.com?subject=Request%20for%20Resume&body=Dear%20Fiona,%0D%0A%0D%0A[Your%20Message]%0D%0A%0D%0AThank%20you!%0D%0ABest%20regards,%0D%0A[Your%20Name]%0A[Your%20Company]%0D%0A[Your%20Contact%20Information]">
       <img src="https://img.shields.io/badge/request%20my%20resume-56744E.svg?style=flat-square&logo=readme&logoColor=white" alt="Request My Resume">
     </a>
-  </div>
-  <div style="display: block">
-    <img src="https://komarev.com/ghpvc/?username=fiona-cai&label=Profile%20views&color=56744E&style=flat" alt="fiona-cai" />
-    <a href="https://fiona-cai.vercel.app/">
-      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io" alt="My Website">
-    </a>
+    
   </div>
 </div>
 
@@ -40,3 +35,10 @@
     <br/>
     <img src="https://img.shields.io/badge/academic_status-getting%20my%20IB%20diploma%20%26%20uni%20decisions-56744E" alt="Life">
   </div>
+
+<div style="text-align: center;" align="right">
+  <img src="https://komarev.com/ghpvc/?username=fiona-cai&label=Profile%20views&color=56744E&style=flat" alt="fiona-cai" />
+    <a href="https://fiona-cai.vercel.app/">
+  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io" alt="My Website">
+    </a>
+</div>
