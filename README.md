@@ -9,9 +9,9 @@
 - 🌱 interested in human-computer interaction and ml/ai; specifically ai-assitive tools -- i create for people ♥
 - 🌱 currently coding up my [personal site](https://fiona-cai.vercel.app/) and working on some personal projects in the social good space
     - recently mp4g qualifier (top 250/~80,000 female amc/aime scorers invited to compete at mit)
-    - captain of bayview's math team: hmmt (harvard-mit math comp), ctmc (canadian team math comp), etc.
+    - captain of bayview's math team: hmmt (harvard-mit math comp), ctmc (canadian team math comp)
     - ncwit ontario award winner & schulich leader nominee
-- 🌱 chair [@YRHacks](https://github.com/yrhacks), prev. high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
+- 🌱 chair [@YRHacks](https://github.com/yrhacks), 2 time high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
 - 🍵 matcha connoisseur (and hopefully future sushi connoisseur)
 
 <div style="display: flex; justify-content: space-between; width: 100;">
