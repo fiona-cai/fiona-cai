@@ -6,12 +6,10 @@
   <img src="IMG_8045-removebg-preview.png" width="21"/>
 </h1>
 
+incoming cs student at uwaterloo + schulich leader:
 - 🌱 interested in human-computer interaction and ml/ai; specifically ai-assitive tools -- i create for people ♥
-- 🌱 currently coding up my [personal site](https://fiona-cai.vercel.app/) and working on some personal projects in the social good space
-    - recently mp4g qualifier (top 250/~80,000 female amc/aime scorers invited to compete at mit)
-    - captain of bayview's math team: hmmt (harvard-mit math comp), ctmc (canadian team math comp)
-    - ncwit ontario award winner & schulich leader nominee
-- 🌱 chair [@YRHacks](https://github.com/yrhacks), 2 time high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
+- 🌱 currently coding up my [personal site](https://fiona-cai.vercel.app/) and hopping back on the hackathon grind
+- 🌱 chair [@YRHacks](https://github.com/yrhacks) (biggest 🇨🇦 hs hackathon), 2 time high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
 - 🍵 matcha connoisseur (and hopefully future sushi connoisseur)
 
 <div style="display: flex; justify-content: space-between; width: 100;">
@@ -34,7 +32,7 @@
 <div style="text-align: center;" align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C56744E%2C222D1F" alt="mystreak">
     <br/>
-    <img src="https://img.shields.io/badge/academic_status-getting%20my%20IB%20diploma%20%26%20uni%20decisions-56744E" alt="Life">
+    <img src="https://img.shields.io/badge/academic_status-i%20got%20my%20IB%20diploma%20%26%20uni%20decisions-56744E" alt="Life">
   </div>
 
 <br>
