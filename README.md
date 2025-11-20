@@ -32,7 +32,6 @@ cs @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 <div style="text-align: center;" align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=fiona-cai&theme=ocean-gradient&hide_border=true&background=45%2C56744E%2C222D1F" alt="mystreak">
     <br/>
-    <img src="https://img.shields.io/badge/academic_status-i%20got%20my%20IB%20diploma%20%26%20uni%20decisions-56744E" alt="Life">
   </div>
 
 <br>
