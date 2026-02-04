@@ -15,7 +15,7 @@ const PALETTE = [
 
 // Opacity increases with activity level (light/dark mode compatible)
 const OPACITY = [
-  0.65,  // level 0: no activity
+  0.6,  // level 0: no activity
   0.7,  // level 1: 1–2 contributions
   0.8,  // level 2: 3–5
   0.9,  // level 3: 6–9
