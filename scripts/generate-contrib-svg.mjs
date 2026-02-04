@@ -4,19 +4,19 @@ import path from "node:path";
 
 const USERNAME = "fiona-cai";
 
-// Your palette: no activity, then lowest -> highest
+// Shades of pink, tuned for light & dark mode
 const PALETTE = [
   "#ABCCA3", // no activity
-  "#FBD2C6", // lowest
-  "#FBDAD0",
-  "#FBE0D8",
-  "#FBE6DF"  // highest
+  "#D4A5B0", // lowest
+  "#E0A8B5",
+  "#ECB5C0",
+  "#F5C4CE"  // highest
 ];
 
-// Opacity for light/dark mode compatibility (blends with background)
+// Opacity for light/dark mode compatibility
 const OPACITY = {
-  none: 0.45,   // no activity - subtle on both themes
-  active: 0.82  // activity levels
+  none: 0.55,   // no activity
+  active: 0.88  // activity - visible on both themes
 };
 
 // GitHub-like sizes
