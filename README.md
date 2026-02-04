@@ -43,9 +43,7 @@ cs @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
     </a>
 </div>
 
-<br></br>
 ---
-<br></br>
 
 <div style="text-align: center;" align="center">
   <img src="./assets/contributions.svg" alt="contribution graph"/>
