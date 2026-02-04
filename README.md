@@ -45,6 +45,6 @@ cs @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 
 
 <div style="text-align: center;" align="center">
-  <img src="https://raw.githubusercontent.com/fiona-cai/fiona-cai/output/github-contribution-grid-snake-dark.svg" alt="contribution graph"/>
+  <img src="./contributions.svg" alt="contribution graph"/>
   <br/>
 </div>
