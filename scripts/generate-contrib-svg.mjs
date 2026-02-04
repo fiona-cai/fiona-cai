@@ -8,16 +8,16 @@ const USERNAME = "fiona-cai";
 const PALETTE = [
   "#ABCCA3", // no activity
   "#FDCFC3", // lowest
-  "#FDCFC3",
-  "#FDCFC3",
-  "#FDCFC3"  // highest
+  "#FDD7CD",
+  "#FDDED6",
+  "#FDE4DD"  // highest
 ];
 
 // Opacity increases with activity level (light/dark mode compatible)
 const OPACITY = [
-  0.55,  // level 0: no activity
-  0.65,  // level 1: 1–2 contributions
-  0.75,  // level 2: 3–5
+  0.6,  // level 0: no activity
+  0.75,  // level 1: 1–2 contributions
+  0.80,  // level 2: 3–5
   0.85,  // level 3: 6–9
   0.95   // level 4: 10+
 ];
