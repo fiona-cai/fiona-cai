@@ -7,17 +7,20 @@ const USERNAME = "fiona-cai";
 // Shades of pink, tuned for light & dark mode
 const PALETTE = [
   "#ABCCA3", // no activity
-  "#D4A5B0", // lowest
-  "#E0A8B5",
-  "#ECB5C0",
-  "#F5C4CE"  // highest
+  "#F9BDAE", // lowest
+  "#F9BDAE",
+  "#F9BDAE",
+  "#F9BDAE"  // highest
 ];
 
-// Opacity for light/dark mode compatibility
-const OPACITY = {
-  none: 0.55,   // no activity
-  active: 0.88  // activity - visible on both themes
-};
+// Opacity increases with activity level (light/dark mode compatible)
+const OPACITY = [
+  0.55,  // level 0: no activity
+  0.65,  // level 1: 1–2 contributions
+  0.75,  // level 2: 3–5
+  0.85,  // level 3: 6–9
+  0.95   // level 4: 10+
+];
 
 // GitHub-like sizes
 const CELL = 11;
@@ -148,7 +151,7 @@ function renderSVG(calendar) {
       const date = day?.date ?? "";
       const level = levelFromCount(count);
       const fill = PALETTE[level];
-      const opacity = level === 0 ? OPACITY.none : OPACITY.active;
+      const opacity = OPACITY[level];
 
       const rx = 2; // rounded corners like GitHub
       const px = PAD_X + x * (CELL + GAP);
@@ -175,7 +178,7 @@ function renderSVG(calendar) {
   let legendSwatches = "";
   for (let i = 0; i < PALETTE.length; i++) {
     const lx = legendStartX + i * (legendSwatchSize + legendGap);
-    const op = i === 0 ? OPACITY.none : OPACITY.active;
+    const op = OPACITY[i];
     legendSwatches += `\n  <rect x="${lx}" y="${legendY - legendSwatchSize + 2}" width="${legendSwatchSize}" height="${legendSwatchSize}" rx="2" ry="2" fill="${PALETTE[i]}" fill-opacity="${op}"/>`;
   }
 
