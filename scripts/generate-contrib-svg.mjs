@@ -36,9 +36,9 @@ const LEGEND_HEIGHT = 28;
 
 function levelFromCount(count) {
   if (count === 0) return 0;
-  if (count <= 2) return 1;
-  if (count <= 5) return 2;
-  if (count <= 9) return 3;
+  if (count <= 3) return 1;
+  if (count <= 9) return 2;
+  if (count <= 18) return 3;
   return 4;
 }
 
