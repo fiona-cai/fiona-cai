@@ -1,0 +1,31 @@
+name: Generate Contributions Grid SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contributions grid
+        uses: akhileshns/github-contributions@v1
+        with:
+          username: fiona-cai
+          output: contributions.svg
+          theme: custom
+          custom_palette: ABCCA3,E9B8C1,C0D9BA,EFCAD1
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add contributions.svg
+          git commit -m "Update contributions grid" || exit 0
+          git push
