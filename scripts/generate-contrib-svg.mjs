@@ -6,12 +6,18 @@ const USERNAME = "fiona-cai";
 
 // Your palette: no activity, then lowest -> highest
 const PALETTE = [
-  "#97BAA9", // no activity
-  "#ABCCA3", // lowest
-  "#C8D9AA",
-  "#F3DEB4",
-  "#FBD2C6"  // highest
+  "#ABCCA3", // no activity
+  "#FBD2C6", // lowest
+  "#FBDAD0",
+  "#FBE0D8",
+  "#FBE6DF"  // highest
 ];
+
+// Opacity for light/dark mode compatibility (blends with background)
+const OPACITY = {
+  none: 0.45,   // no activity - subtle on both themes
+  active: 0.82  // activity levels
+};
 
 // GitHub-like sizes
 const CELL = 11;
@@ -122,7 +128,7 @@ function renderSVG(calendar) {
 
   // Transparent background so it blends into README
   const bg = "transparent";
-  const textColor = "#8b949e"; // GitHub-style muted gray, readable on light/dark
+  const textColor = "#8b949e"; // GitHub-style gray, readable on light/dark
 
   let rects = "";
   const gridOffsetY = HEADER_HEIGHT + PAD_Y;
@@ -142,6 +148,7 @@ function renderSVG(calendar) {
       const date = day?.date ?? "";
       const level = levelFromCount(count);
       const fill = PALETTE[level];
+      const opacity = level === 0 ? OPACITY.none : OPACITY.active;
 
       const rx = 2; // rounded corners like GitHub
       const px = PAD_X + x * (CELL + GAP);
@@ -150,7 +157,7 @@ function renderSVG(calendar) {
       const title = date ? formatTooltipDate(date, count) : "";
 
       rects += `
-  <rect x="${px}" y="${py}" width="${CELL}" height="${CELL}" rx="${rx}" ry="${rx}" fill="${fill}">
+  <rect x="${px}" y="${py}" width="${CELL}" height="${CELL}" rx="${rx}" ry="${rx}" fill="${fill}" fill-opacity="${opacity}">
     ${title ? `<title>${svgEscape(title)}</title>` : ""}
   </rect>`;
     }
@@ -168,7 +175,8 @@ function renderSVG(calendar) {
   let legendSwatches = "";
   for (let i = 0; i < PALETTE.length; i++) {
     const lx = legendStartX + i * (legendSwatchSize + legendGap);
-    legendSwatches += `\n  <rect x="${lx}" y="${legendY - legendSwatchSize + 2}" width="${legendSwatchSize}" height="${legendSwatchSize}" rx="2" ry="2" fill="${PALETTE[i]}"/>`;
+    const op = i === 0 ? OPACITY.none : OPACITY.active;
+    legendSwatches += `\n  <rect x="${lx}" y="${legendY - legendSwatchSize + 2}" width="${legendSwatchSize}" height="${legendSwatchSize}" rx="2" ry="2" fill="${PALETTE[i]}" fill-opacity="${op}"/>`;
   }
 
   return `<?xml version="1.0" encoding="UTF-8"?>
