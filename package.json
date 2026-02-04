@@ -1,0 +1,11 @@
+{
+  "name": "contrib-grid-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-contrib-svg.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
