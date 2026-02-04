@@ -34,11 +34,17 @@ cs @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
     <br/>
   </div>
 
-<br>
+
 
 <div style="text-align: center;" align="right">
   <img src="https://komarev.com/ghpvc/?username=fiona-cai&label=Profile%20views&color=56744E&style=flat" alt="fiona-cai" />
     <a href="https://fiona-cai.vercel.app/">
   <img src="https://img.shields.io/website-up-down-green-red/http/shields.io" alt="My Website">
     </a>
+</div>
+
+
+<div style="text-align: center;" align="center">
+  <img src="https://raw.githubusercontent.com/fiona-cai/fiona-cai/output/github-contribution-grid-snake-dark.svg" alt="contribution graph"/>
+  <br/>
 </div>
