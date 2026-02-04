@@ -1,1124 +1,1133 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="707" height="109"
-     viewBox="0 0 707 109"
+<svg width="707" height="161"
+     viewBox="0 0 707 161"
      xmlns="http://www.w3.org/2000/svg"
      role="img"
      aria-label="GitHub contributions graph for fiona-cai">
   <rect width="100%" height="100%" fill="transparent" />
+  <text x="0" y="16" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#8b949e">669 contributions in the last year</text>
   <g>
     
-  <rect x="10" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-02: 0 contributions</title>
+  <rect x="10" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 2nd</title>
   </rect>
-  <rect x="10" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-03: 0 contributions</title>
+  <rect x="10" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 3rd</title>
   </rect>
-  <rect x="10" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-04: 0 contributions</title>
+  <rect x="10" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 4th</title>
   </rect>
-  <rect x="10" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-05: 0 contributions</title>
+  <rect x="10" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 5th</title>
   </rect>
-  <rect x="10" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-06: 0 contributions</title>
+  <rect x="10" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 6th</title>
   </rect>
-  <rect x="10" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-07: 0 contributions</title>
+  <rect x="10" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 7th</title>
   </rect>
-  <rect x="10" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-08: 0 contributions</title>
+  <rect x="10" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 8th</title>
   </rect>
-  <rect x="23" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-09: 0 contributions</title>
+  <rect x="23" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 9th</title>
   </rect>
-  <rect x="23" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-10: 0 contributions</title>
+  <rect x="23" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 10th</title>
   </rect>
-  <rect x="23" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-11: 0 contributions</title>
+  <rect x="23" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 11th</title>
   </rect>
-  <rect x="23" y="49" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-02-12: 3 contributions</title>
+  <rect x="23" y="73" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on February 12th</title>
   </rect>
-  <rect x="23" y="62" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-02-13: 11 contributions</title>
+  <rect x="23" y="86" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>11 contributions on February 13th</title>
   </rect>
-  <rect x="23" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-14: 0 contributions</title>
+  <rect x="23" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 14th</title>
   </rect>
-  <rect x="23" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-15: 0 contributions</title>
+  <rect x="23" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 15th</title>
   </rect>
-  <rect x="36" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-16: 0 contributions</title>
+  <rect x="36" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 16th</title>
   </rect>
-  <rect x="36" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-17: 0 contributions</title>
+  <rect x="36" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 17th</title>
   </rect>
-  <rect x="36" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-18: 0 contributions</title>
+  <rect x="36" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 18th</title>
   </rect>
-  <rect x="36" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-19: 0 contributions</title>
+  <rect x="36" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 19th</title>
   </rect>
-  <rect x="36" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-20: 0 contributions</title>
+  <rect x="36" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 20th</title>
   </rect>
-  <rect x="36" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-21: 0 contributions</title>
+  <rect x="36" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 21st</title>
   </rect>
-  <rect x="36" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-22: 0 contributions</title>
+  <rect x="36" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 22nd</title>
   </rect>
-  <rect x="49" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-23: 0 contributions</title>
+  <rect x="49" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 23rd</title>
   </rect>
-  <rect x="49" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-24: 0 contributions</title>
+  <rect x="49" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 24th</title>
   </rect>
-  <rect x="49" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-25: 0 contributions</title>
+  <rect x="49" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 25th</title>
   </rect>
-  <rect x="49" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-26: 0 contributions</title>
+  <rect x="49" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 26th</title>
   </rect>
-  <rect x="49" y="62" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-02-27: 2 contributions</title>
+  <rect x="49" y="86" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on February 27th</title>
   </rect>
-  <rect x="49" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-02-28: 0 contributions</title>
+  <rect x="49" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on February 28th</title>
   </rect>
-  <rect x="49" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-01: 0 contributions</title>
+  <rect x="49" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 1st</title>
   </rect>
-  <rect x="62" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-02: 0 contributions</title>
+  <rect x="62" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 2nd</title>
   </rect>
-  <rect x="62" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-03: 0 contributions</title>
+  <rect x="62" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 3rd</title>
   </rect>
-  <rect x="62" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-04: 0 contributions</title>
+  <rect x="62" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 4th</title>
   </rect>
-  <rect x="62" y="49" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-03-05: 7 contributions</title>
+  <rect x="62" y="73" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>7 contributions on March 5th</title>
   </rect>
-  <rect x="62" y="62" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-03-06: 18 contributions</title>
+  <rect x="62" y="86" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>18 contributions on March 6th</title>
   </rect>
-  <rect x="62" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-03-07: 3 contributions</title>
+  <rect x="62" y="99" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on March 7th</title>
   </rect>
-  <rect x="62" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-03-08: 1 contribution</title>
+  <rect x="62" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on March 8th</title>
   </rect>
-  <rect x="75" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-09: 0 contributions</title>
+  <rect x="75" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 9th</title>
   </rect>
-  <rect x="75" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-10: 0 contributions</title>
+  <rect x="75" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 10th</title>
   </rect>
-  <rect x="75" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-11: 0 contributions</title>
+  <rect x="75" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 11th</title>
   </rect>
-  <rect x="75" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-12: 0 contributions</title>
+  <rect x="75" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 12th</title>
   </rect>
-  <rect x="75" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-13: 0 contributions</title>
+  <rect x="75" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 13th</title>
   </rect>
-  <rect x="75" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-14: 0 contributions</title>
+  <rect x="75" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 14th</title>
   </rect>
-  <rect x="75" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-15: 0 contributions</title>
+  <rect x="75" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 15th</title>
   </rect>
-  <rect x="88" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-16: 0 contributions</title>
+  <rect x="88" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 16th</title>
   </rect>
-  <rect x="88" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-17: 0 contributions</title>
+  <rect x="88" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 17th</title>
   </rect>
-  <rect x="88" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-18: 0 contributions</title>
+  <rect x="88" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 18th</title>
   </rect>
-  <rect x="88" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-19: 0 contributions</title>
+  <rect x="88" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 19th</title>
   </rect>
-  <rect x="88" y="62" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-03-20: 2 contributions</title>
+  <rect x="88" y="86" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on March 20th</title>
   </rect>
-  <rect x="88" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-21: 0 contributions</title>
+  <rect x="88" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 21st</title>
   </rect>
-  <rect x="88" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-22: 0 contributions</title>
+  <rect x="88" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 22nd</title>
   </rect>
-  <rect x="101" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-23: 0 contributions</title>
+  <rect x="101" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 23rd</title>
   </rect>
-  <rect x="101" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-24: 0 contributions</title>
+  <rect x="101" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 24th</title>
   </rect>
-  <rect x="101" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-25: 0 contributions</title>
+  <rect x="101" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 25th</title>
   </rect>
-  <rect x="101" y="49" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-03-26: 1 contribution</title>
+  <rect x="101" y="73" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on March 26th</title>
   </rect>
-  <rect x="101" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-27: 0 contributions</title>
+  <rect x="101" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 27th</title>
   </rect>
-  <rect x="101" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-28: 0 contributions</title>
+  <rect x="101" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 28th</title>
   </rect>
-  <rect x="101" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-29: 0 contributions</title>
+  <rect x="101" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 29th</title>
   </rect>
-  <rect x="114" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-30: 0 contributions</title>
+  <rect x="114" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 30th</title>
   </rect>
-  <rect x="114" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-03-31: 0 contributions</title>
+  <rect x="114" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on March 31st</title>
   </rect>
-  <rect x="114" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-01: 0 contributions</title>
+  <rect x="114" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 1st</title>
   </rect>
-  <rect x="114" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-02: 0 contributions</title>
+  <rect x="114" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 2nd</title>
   </rect>
-  <rect x="114" y="62" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-04-03: 1 contribution</title>
+  <rect x="114" y="86" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on April 3rd</title>
   </rect>
-  <rect x="114" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-04-04: 6 contributions</title>
+  <rect x="114" y="99" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>6 contributions on April 4th</title>
   </rect>
-  <rect x="114" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-04-05: 1 contribution</title>
+  <rect x="114" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on April 5th</title>
   </rect>
-  <rect x="127" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-06: 0 contributions</title>
+  <rect x="127" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 6th</title>
   </rect>
-  <rect x="127" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-07: 0 contributions</title>
+  <rect x="127" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 7th</title>
   </rect>
-  <rect x="127" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-08: 0 contributions</title>
+  <rect x="127" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 8th</title>
   </rect>
-  <rect x="127" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-09: 0 contributions</title>
+  <rect x="127" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 9th</title>
   </rect>
-  <rect x="127" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-10: 0 contributions</title>
+  <rect x="127" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 10th</title>
   </rect>
-  <rect x="127" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-11: 0 contributions</title>
+  <rect x="127" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 11th</title>
   </rect>
-  <rect x="127" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-12: 0 contributions</title>
+  <rect x="127" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 12th</title>
   </rect>
-  <rect x="140" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-13: 0 contributions</title>
+  <rect x="140" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 13th</title>
   </rect>
-  <rect x="140" y="23" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-04-14: 5 contributions</title>
+  <rect x="140" y="47" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>5 contributions on April 14th</title>
   </rect>
-  <rect x="140" y="36" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-04-15: 2 contributions</title>
+  <rect x="140" y="60" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on April 15th</title>
   </rect>
-  <rect x="140" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-16: 0 contributions</title>
+  <rect x="140" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 16th</title>
   </rect>
-  <rect x="140" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-17: 0 contributions</title>
+  <rect x="140" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 17th</title>
   </rect>
-  <rect x="140" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-18: 0 contributions</title>
+  <rect x="140" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 18th</title>
   </rect>
-  <rect x="140" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-19: 0 contributions</title>
+  <rect x="140" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 19th</title>
   </rect>
-  <rect x="153" y="10" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-04-20: 1 contribution</title>
+  <rect x="153" y="34" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on April 20th</title>
   </rect>
-  <rect x="153" y="23" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-04-21: 1 contribution</title>
+  <rect x="153" y="47" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on April 21st</title>
   </rect>
-  <rect x="153" y="36" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-04-22: 1 contribution</title>
+  <rect x="153" y="60" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on April 22nd</title>
   </rect>
-  <rect x="153" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-23: 0 contributions</title>
+  <rect x="153" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 23rd</title>
   </rect>
-  <rect x="153" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-24: 0 contributions</title>
+  <rect x="153" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 24th</title>
   </rect>
-  <rect x="153" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-25: 0 contributions</title>
+  <rect x="153" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 25th</title>
   </rect>
-  <rect x="153" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-26: 0 contributions</title>
+  <rect x="153" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 26th</title>
   </rect>
-  <rect x="166" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-27: 0 contributions</title>
+  <rect x="166" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 27th</title>
   </rect>
-  <rect x="166" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-28: 0 contributions</title>
+  <rect x="166" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 28th</title>
   </rect>
-  <rect x="166" y="36" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-04-29: 19 contributions</title>
+  <rect x="166" y="60" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>19 contributions on April 29th</title>
   </rect>
-  <rect x="166" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-04-30: 0 contributions</title>
+  <rect x="166" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on April 30th</title>
   </rect>
-  <rect x="166" y="62" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-05-01: 1 contribution</title>
+  <rect x="166" y="86" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on May 1st</title>
   </rect>
-  <rect x="166" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-02: 0 contributions</title>
+  <rect x="166" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 2nd</title>
   </rect>
-  <rect x="166" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-05-03: 1 contribution</title>
+  <rect x="166" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on May 3rd</title>
   </rect>
-  <rect x="179" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-04: 0 contributions</title>
+  <rect x="179" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 4th</title>
   </rect>
-  <rect x="179" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-05: 0 contributions</title>
+  <rect x="179" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 5th</title>
   </rect>
-  <rect x="179" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-06: 0 contributions</title>
+  <rect x="179" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 6th</title>
   </rect>
-  <rect x="179" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-07: 0 contributions</title>
+  <rect x="179" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 7th</title>
   </rect>
-  <rect x="179" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-08: 0 contributions</title>
+  <rect x="179" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 8th</title>
   </rect>
-  <rect x="179" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-09: 0 contributions</title>
+  <rect x="179" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 9th</title>
   </rect>
-  <rect x="179" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-10: 0 contributions</title>
+  <rect x="179" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 10th</title>
   </rect>
-  <rect x="192" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-11: 0 contributions</title>
+  <rect x="192" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 11th</title>
   </rect>
-  <rect x="192" y="23" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-05-12: 1 contribution</title>
+  <rect x="192" y="47" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on May 12th</title>
   </rect>
-  <rect x="192" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-13: 0 contributions</title>
+  <rect x="192" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 13th</title>
   </rect>
-  <rect x="192" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-14: 0 contributions</title>
+  <rect x="192" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 14th</title>
   </rect>
-  <rect x="192" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-15: 0 contributions</title>
+  <rect x="192" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 15th</title>
   </rect>
-  <rect x="192" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-16: 0 contributions</title>
+  <rect x="192" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 16th</title>
   </rect>
-  <rect x="192" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-17: 0 contributions</title>
+  <rect x="192" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 17th</title>
   </rect>
-  <rect x="205" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-18: 0 contributions</title>
+  <rect x="205" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 18th</title>
   </rect>
-  <rect x="205" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-19: 0 contributions</title>
+  <rect x="205" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 19th</title>
   </rect>
-  <rect x="205" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-20: 0 contributions</title>
+  <rect x="205" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 20th</title>
   </rect>
-  <rect x="205" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-21: 0 contributions</title>
+  <rect x="205" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 21st</title>
   </rect>
-  <rect x="205" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-22: 0 contributions</title>
+  <rect x="205" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 22nd</title>
   </rect>
-  <rect x="205" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-23: 0 contributions</title>
+  <rect x="205" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 23rd</title>
   </rect>
-  <rect x="205" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-24: 0 contributions</title>
+  <rect x="205" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 24th</title>
   </rect>
-  <rect x="218" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-25: 0 contributions</title>
+  <rect x="218" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 25th</title>
   </rect>
-  <rect x="218" y="23" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-05-26: 2 contributions</title>
+  <rect x="218" y="47" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on May 26th</title>
   </rect>
-  <rect x="218" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-27: 0 contributions</title>
+  <rect x="218" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 27th</title>
   </rect>
-  <rect x="218" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-28: 0 contributions</title>
+  <rect x="218" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 28th</title>
   </rect>
-  <rect x="218" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-29: 0 contributions</title>
+  <rect x="218" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 29th</title>
   </rect>
-  <rect x="218" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-30: 0 contributions</title>
+  <rect x="218" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 30th</title>
   </rect>
-  <rect x="218" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-05-31: 0 contributions</title>
+  <rect x="218" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on May 31st</title>
   </rect>
-  <rect x="231" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-01: 0 contributions</title>
+  <rect x="231" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 1st</title>
   </rect>
-  <rect x="231" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-02: 0 contributions</title>
+  <rect x="231" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 2nd</title>
   </rect>
-  <rect x="231" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-03: 0 contributions</title>
+  <rect x="231" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 3rd</title>
   </rect>
-  <rect x="231" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-04: 0 contributions</title>
+  <rect x="231" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 4th</title>
   </rect>
-  <rect x="231" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-05: 0 contributions</title>
+  <rect x="231" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 5th</title>
   </rect>
-  <rect x="231" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-06: 0 contributions</title>
+  <rect x="231" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 6th</title>
   </rect>
-  <rect x="231" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-07: 0 contributions</title>
+  <rect x="231" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 7th</title>
   </rect>
-  <rect x="244" y="10" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-06-08: 1 contribution</title>
+  <rect x="244" y="34" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on June 8th</title>
   </rect>
-  <rect x="244" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-09: 0 contributions</title>
+  <rect x="244" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 9th</title>
   </rect>
-  <rect x="244" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-10: 0 contributions</title>
+  <rect x="244" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 10th</title>
   </rect>
-  <rect x="244" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-11: 0 contributions</title>
+  <rect x="244" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 11th</title>
   </rect>
-  <rect x="244" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-12: 0 contributions</title>
+  <rect x="244" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 12th</title>
   </rect>
-  <rect x="244" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-13: 0 contributions</title>
+  <rect x="244" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 13th</title>
   </rect>
-  <rect x="244" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-14: 0 contributions</title>
+  <rect x="244" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 14th</title>
   </rect>
-  <rect x="257" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-15: 0 contributions</title>
+  <rect x="257" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 15th</title>
   </rect>
-  <rect x="257" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-16: 0 contributions</title>
+  <rect x="257" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 16th</title>
   </rect>
-  <rect x="257" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-17: 0 contributions</title>
+  <rect x="257" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 17th</title>
   </rect>
-  <rect x="257" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-18: 0 contributions</title>
+  <rect x="257" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 18th</title>
   </rect>
-  <rect x="257" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-19: 0 contributions</title>
+  <rect x="257" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 19th</title>
   </rect>
-  <rect x="257" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-20: 0 contributions</title>
+  <rect x="257" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 20th</title>
   </rect>
-  <rect x="257" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-21: 0 contributions</title>
+  <rect x="257" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 21st</title>
   </rect>
-  <rect x="270" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-22: 0 contributions</title>
+  <rect x="270" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 22nd</title>
   </rect>
-  <rect x="270" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-23: 0 contributions</title>
+  <rect x="270" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 23rd</title>
   </rect>
-  <rect x="270" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-24: 0 contributions</title>
+  <rect x="270" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 24th</title>
   </rect>
-  <rect x="270" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-25: 0 contributions</title>
+  <rect x="270" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 25th</title>
   </rect>
-  <rect x="270" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-26: 0 contributions</title>
+  <rect x="270" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 26th</title>
   </rect>
-  <rect x="270" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-06-27: 3 contributions</title>
+  <rect x="270" y="99" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on June 27th</title>
   </rect>
-  <rect x="270" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-06-28: 1 contribution</title>
+  <rect x="270" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on June 28th</title>
   </rect>
-  <rect x="283" y="10" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-06-29: 12 contributions</title>
+  <rect x="283" y="34" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>12 contributions on June 29th</title>
   </rect>
-  <rect x="283" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-06-30: 0 contributions</title>
+  <rect x="283" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on June 30th</title>
   </rect>
-  <rect x="283" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-01: 0 contributions</title>
+  <rect x="283" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 1st</title>
   </rect>
-  <rect x="283" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-02: 0 contributions</title>
+  <rect x="283" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 2nd</title>
   </rect>
-  <rect x="283" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-03: 0 contributions</title>
+  <rect x="283" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 3rd</title>
   </rect>
-  <rect x="283" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-04: 0 contributions</title>
+  <rect x="283" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 4th</title>
   </rect>
-  <rect x="283" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-07-05: 27 contributions</title>
+  <rect x="283" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>27 contributions on July 5th</title>
   </rect>
-  <rect x="296" y="10" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-07-06: 8 contributions</title>
+  <rect x="296" y="34" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>8 contributions on July 6th</title>
   </rect>
-  <rect x="296" y="23" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-07-07: 3 contributions</title>
+  <rect x="296" y="47" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on July 7th</title>
   </rect>
-  <rect x="296" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-08: 0 contributions</title>
+  <rect x="296" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 8th</title>
   </rect>
-  <rect x="296" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-09: 0 contributions</title>
+  <rect x="296" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 9th</title>
   </rect>
-  <rect x="296" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-10: 0 contributions</title>
+  <rect x="296" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 10th</title>
   </rect>
-  <rect x="296" y="75" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-07-11: 1 contribution</title>
+  <rect x="296" y="99" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on July 11th</title>
   </rect>
-  <rect x="296" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-12: 0 contributions</title>
+  <rect x="296" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 12th</title>
   </rect>
-  <rect x="309" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-13: 0 contributions</title>
+  <rect x="309" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 13th</title>
   </rect>
-  <rect x="309" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-14: 0 contributions</title>
+  <rect x="309" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 14th</title>
   </rect>
-  <rect x="309" y="36" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-07-15: 1 contribution</title>
+  <rect x="309" y="60" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on July 15th</title>
   </rect>
-  <rect x="309" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-16: 0 contributions</title>
+  <rect x="309" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 16th</title>
   </rect>
-  <rect x="309" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-17: 0 contributions</title>
+  <rect x="309" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 17th</title>
   </rect>
-  <rect x="309" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-07-18: 4 contributions</title>
+  <rect x="309" y="99" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>4 contributions on July 18th</title>
   </rect>
-  <rect x="309" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-07-19: 13 contributions</title>
+  <rect x="309" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>13 contributions on July 19th</title>
   </rect>
-  <rect x="322" y="10" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-07-20: 3 contributions</title>
+  <rect x="322" y="34" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on July 20th</title>
   </rect>
-  <rect x="322" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-21: 0 contributions</title>
+  <rect x="322" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 21st</title>
   </rect>
-  <rect x="322" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-22: 0 contributions</title>
+  <rect x="322" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 22nd</title>
   </rect>
-  <rect x="322" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-23: 0 contributions</title>
+  <rect x="322" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 23rd</title>
   </rect>
-  <rect x="322" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-24: 0 contributions</title>
+  <rect x="322" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 24th</title>
   </rect>
-  <rect x="322" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-25: 0 contributions</title>
+  <rect x="322" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 25th</title>
   </rect>
-  <rect x="322" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-26: 0 contributions</title>
+  <rect x="322" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 26th</title>
   </rect>
-  <rect x="335" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-27: 0 contributions</title>
+  <rect x="335" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 27th</title>
   </rect>
-  <rect x="335" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-28: 0 contributions</title>
+  <rect x="335" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 28th</title>
   </rect>
-  <rect x="335" y="36" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-07-29: 1 contribution</title>
+  <rect x="335" y="60" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on July 29th</title>
   </rect>
-  <rect x="335" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-30: 0 contributions</title>
+  <rect x="335" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 30th</title>
   </rect>
-  <rect x="335" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-07-31: 0 contributions</title>
+  <rect x="335" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on July 31st</title>
   </rect>
-  <rect x="335" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-01: 0 contributions</title>
+  <rect x="335" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 1st</title>
   </rect>
-  <rect x="335" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-02: 0 contributions</title>
+  <rect x="335" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 2nd</title>
   </rect>
-  <rect x="348" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-03: 0 contributions</title>
+  <rect x="348" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 3rd</title>
   </rect>
-  <rect x="348" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-04: 0 contributions</title>
+  <rect x="348" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 4th</title>
   </rect>
-  <rect x="348" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-05: 0 contributions</title>
+  <rect x="348" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 5th</title>
   </rect>
-  <rect x="348" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-06: 0 contributions</title>
+  <rect x="348" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 6th</title>
   </rect>
-  <rect x="348" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-07: 0 contributions</title>
+  <rect x="348" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 7th</title>
   </rect>
-  <rect x="348" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-08: 0 contributions</title>
+  <rect x="348" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 8th</title>
   </rect>
-  <rect x="348" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-09: 0 contributions</title>
+  <rect x="348" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 9th</title>
   </rect>
-  <rect x="361" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-10: 0 contributions</title>
+  <rect x="361" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 10th</title>
   </rect>
-  <rect x="361" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-11: 0 contributions</title>
+  <rect x="361" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 11th</title>
   </rect>
-  <rect x="361" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-12: 0 contributions</title>
+  <rect x="361" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 12th</title>
   </rect>
-  <rect x="361" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-13: 0 contributions</title>
+  <rect x="361" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 13th</title>
   </rect>
-  <rect x="361" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-14: 0 contributions</title>
+  <rect x="361" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 14th</title>
   </rect>
-  <rect x="361" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-15: 0 contributions</title>
+  <rect x="361" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 15th</title>
   </rect>
-  <rect x="361" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-16: 0 contributions</title>
+  <rect x="361" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 16th</title>
   </rect>
-  <rect x="374" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-17: 0 contributions</title>
+  <rect x="374" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 17th</title>
   </rect>
-  <rect x="374" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-18: 0 contributions</title>
+  <rect x="374" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 18th</title>
   </rect>
-  <rect x="374" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-19: 0 contributions</title>
+  <rect x="374" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 19th</title>
   </rect>
-  <rect x="374" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-20: 0 contributions</title>
+  <rect x="374" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 20th</title>
   </rect>
-  <rect x="374" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-21: 0 contributions</title>
+  <rect x="374" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 21st</title>
   </rect>
-  <rect x="374" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-22: 0 contributions</title>
+  <rect x="374" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 22nd</title>
   </rect>
-  <rect x="374" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-23: 0 contributions</title>
+  <rect x="374" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 23rd</title>
   </rect>
-  <rect x="387" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-24: 0 contributions</title>
+  <rect x="387" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 24th</title>
   </rect>
-  <rect x="387" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-25: 0 contributions</title>
+  <rect x="387" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 25th</title>
   </rect>
-  <rect x="387" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-26: 0 contributions</title>
+  <rect x="387" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 26th</title>
   </rect>
-  <rect x="387" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-27: 0 contributions</title>
+  <rect x="387" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 27th</title>
   </rect>
-  <rect x="387" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-28: 0 contributions</title>
+  <rect x="387" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 28th</title>
   </rect>
-  <rect x="387" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-29: 0 contributions</title>
+  <rect x="387" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 29th</title>
   </rect>
-  <rect x="387" y="88" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-08-30: 5 contributions</title>
+  <rect x="387" y="112" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>5 contributions on August 30th</title>
   </rect>
-  <rect x="400" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-08-31: 0 contributions</title>
+  <rect x="400" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on August 31st</title>
   </rect>
-  <rect x="400" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-01: 0 contributions</title>
+  <rect x="400" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 1st</title>
   </rect>
-  <rect x="400" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-02: 0 contributions</title>
+  <rect x="400" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 2nd</title>
   </rect>
-  <rect x="400" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-03: 0 contributions</title>
+  <rect x="400" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 3rd</title>
   </rect>
-  <rect x="400" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-04: 0 contributions</title>
+  <rect x="400" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 4th</title>
   </rect>
-  <rect x="400" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-05: 0 contributions</title>
+  <rect x="400" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 5th</title>
   </rect>
-  <rect x="400" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-06: 0 contributions</title>
+  <rect x="400" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 6th</title>
   </rect>
-  <rect x="413" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-07: 0 contributions</title>
+  <rect x="413" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 7th</title>
   </rect>
-  <rect x="413" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-08: 0 contributions</title>
+  <rect x="413" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 8th</title>
   </rect>
-  <rect x="413" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-09: 0 contributions</title>
+  <rect x="413" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 9th</title>
   </rect>
-  <rect x="413" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-10: 0 contributions</title>
+  <rect x="413" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 10th</title>
   </rect>
-  <rect x="413" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-11: 0 contributions</title>
+  <rect x="413" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 11th</title>
   </rect>
-  <rect x="413" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-12: 0 contributions</title>
+  <rect x="413" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 12th</title>
   </rect>
-  <rect x="413" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-09-13: 40 contributions</title>
+  <rect x="413" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>40 contributions on September 13th</title>
   </rect>
-  <rect x="426" y="10" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-09-14: 7 contributions</title>
+  <rect x="426" y="34" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>7 contributions on September 14th</title>
   </rect>
-  <rect x="426" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-15: 0 contributions</title>
+  <rect x="426" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 15th</title>
   </rect>
-  <rect x="426" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-16: 0 contributions</title>
+  <rect x="426" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 16th</title>
   </rect>
-  <rect x="426" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-17: 0 contributions</title>
+  <rect x="426" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 17th</title>
   </rect>
-  <rect x="426" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-18: 0 contributions</title>
+  <rect x="426" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 18th</title>
   </rect>
-  <rect x="426" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-19: 0 contributions</title>
+  <rect x="426" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 19th</title>
   </rect>
-  <rect x="426" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-09-20: 2 contributions</title>
+  <rect x="426" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on September 20th</title>
   </rect>
-  <rect x="439" y="10" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-09-21: 2 contributions</title>
+  <rect x="439" y="34" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on September 21st</title>
   </rect>
-  <rect x="439" y="23" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-09-22: 6 contributions</title>
+  <rect x="439" y="47" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>6 contributions on September 22nd</title>
   </rect>
-  <rect x="439" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-23: 0 contributions</title>
+  <rect x="439" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 23rd</title>
   </rect>
-  <rect x="439" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-24: 0 contributions</title>
+  <rect x="439" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 24th</title>
   </rect>
-  <rect x="439" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-25: 0 contributions</title>
+  <rect x="439" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 25th</title>
   </rect>
-  <rect x="439" y="75" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-09-26: 15 contributions</title>
+  <rect x="439" y="99" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>15 contributions on September 26th</title>
   </rect>
-  <rect x="439" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-09-27: 12 contributions</title>
+  <rect x="439" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>12 contributions on September 27th</title>
   </rect>
-  <rect x="452" y="10" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-09-28: 26 contributions</title>
+  <rect x="452" y="34" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>26 contributions on September 28th</title>
   </rect>
-  <rect x="452" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-09-29: 0 contributions</title>
+  <rect x="452" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on September 29th</title>
   </rect>
-  <rect x="452" y="36" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-09-30: 4 contributions</title>
+  <rect x="452" y="60" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>4 contributions on September 30th</title>
   </rect>
-  <rect x="452" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-01: 0 contributions</title>
+  <rect x="452" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 1st</title>
   </rect>
-  <rect x="452" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-02: 0 contributions</title>
+  <rect x="452" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 2nd</title>
   </rect>
-  <rect x="452" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-03: 0 contributions</title>
+  <rect x="452" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 3rd</title>
   </rect>
-  <rect x="452" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-04: 0 contributions</title>
+  <rect x="452" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 4th</title>
   </rect>
-  <rect x="465" y="10" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-10-05: 2 contributions</title>
+  <rect x="465" y="34" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on October 5th</title>
   </rect>
-  <rect x="465" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-06: 0 contributions</title>
+  <rect x="465" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 6th</title>
   </rect>
-  <rect x="465" y="36" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-10-07: 7 contributions</title>
+  <rect x="465" y="60" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>7 contributions on October 7th</title>
   </rect>
-  <rect x="465" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-08: 0 contributions</title>
+  <rect x="465" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 8th</title>
   </rect>
-  <rect x="465" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-09: 0 contributions</title>
+  <rect x="465" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 9th</title>
   </rect>
-  <rect x="465" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-10: 0 contributions</title>
+  <rect x="465" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 10th</title>
   </rect>
-  <rect x="465" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-10-11: 2 contributions</title>
+  <rect x="465" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on October 11th</title>
   </rect>
-  <rect x="478" y="10" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-10-12: 4 contributions</title>
+  <rect x="478" y="34" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>4 contributions on October 12th</title>
   </rect>
-  <rect x="478" y="23" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-10-13: 3 contributions</title>
+  <rect x="478" y="47" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on October 13th</title>
   </rect>
-  <rect x="478" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-14: 0 contributions</title>
+  <rect x="478" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 14th</title>
   </rect>
-  <rect x="478" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-15: 0 contributions</title>
+  <rect x="478" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 15th</title>
   </rect>
-  <rect x="478" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-16: 0 contributions</title>
+  <rect x="478" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 16th</title>
   </rect>
-  <rect x="478" y="75" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-10-17: 1 contribution</title>
+  <rect x="478" y="99" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on October 17th</title>
   </rect>
-  <rect x="478" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-18: 0 contributions</title>
+  <rect x="478" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 18th</title>
   </rect>
-  <rect x="491" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-19: 0 contributions</title>
+  <rect x="491" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 19th</title>
   </rect>
-  <rect x="491" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-20: 0 contributions</title>
+  <rect x="491" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 20th</title>
   </rect>
-  <rect x="491" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-21: 0 contributions</title>
+  <rect x="491" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 21st</title>
   </rect>
-  <rect x="491" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-22: 0 contributions</title>
+  <rect x="491" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 22nd</title>
   </rect>
-  <rect x="491" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-23: 0 contributions</title>
+  <rect x="491" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 23rd</title>
   </rect>
-  <rect x="491" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-24: 0 contributions</title>
+  <rect x="491" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 24th</title>
   </rect>
-  <rect x="491" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-25: 0 contributions</title>
+  <rect x="491" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 25th</title>
   </rect>
-  <rect x="504" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-26: 0 contributions</title>
+  <rect x="504" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 26th</title>
   </rect>
-  <rect x="504" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-27: 0 contributions</title>
+  <rect x="504" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 27th</title>
   </rect>
-  <rect x="504" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-28: 0 contributions</title>
+  <rect x="504" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 28th</title>
   </rect>
-  <rect x="504" y="49" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-10-29: 2 contributions</title>
+  <rect x="504" y="73" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>2 contributions on October 29th</title>
   </rect>
-  <rect x="504" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-30: 0 contributions</title>
+  <rect x="504" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 30th</title>
   </rect>
-  <rect x="504" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-10-31: 0 contributions</title>
+  <rect x="504" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on October 31st</title>
   </rect>
-  <rect x="504" y="88" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-11-01: 1 contribution</title>
+  <rect x="504" y="112" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on November 1st</title>
   </rect>
-  <rect x="517" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-02: 0 contributions</title>
+  <rect x="517" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 2nd</title>
   </rect>
-  <rect x="517" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-03: 0 contributions</title>
+  <rect x="517" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 3rd</title>
   </rect>
-  <rect x="517" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-04: 0 contributions</title>
+  <rect x="517" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 4th</title>
   </rect>
-  <rect x="517" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-05: 0 contributions</title>
+  <rect x="517" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 5th</title>
   </rect>
-  <rect x="517" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-06: 0 contributions</title>
+  <rect x="517" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 6th</title>
   </rect>
-  <rect x="517" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-07: 0 contributions</title>
+  <rect x="517" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 7th</title>
   </rect>
-  <rect x="517" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-08: 0 contributions</title>
+  <rect x="517" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 8th</title>
   </rect>
-  <rect x="530" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-09: 0 contributions</title>
+  <rect x="530" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 9th</title>
   </rect>
-  <rect x="530" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-10: 0 contributions</title>
+  <rect x="530" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 10th</title>
   </rect>
-  <rect x="530" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-11: 0 contributions</title>
+  <rect x="530" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 11th</title>
   </rect>
-  <rect x="530" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-12: 0 contributions</title>
+  <rect x="530" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 12th</title>
   </rect>
-  <rect x="530" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-13: 0 contributions</title>
+  <rect x="530" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 13th</title>
   </rect>
-  <rect x="530" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-14: 0 contributions</title>
+  <rect x="530" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 14th</title>
   </rect>
-  <rect x="530" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-15: 0 contributions</title>
+  <rect x="530" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 15th</title>
   </rect>
-  <rect x="543" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-16: 0 contributions</title>
+  <rect x="543" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 16th</title>
   </rect>
-  <rect x="543" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-17: 0 contributions</title>
+  <rect x="543" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 17th</title>
   </rect>
-  <rect x="543" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-18: 0 contributions</title>
+  <rect x="543" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 18th</title>
   </rect>
-  <rect x="543" y="49" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-11-19: 17 contributions</title>
+  <rect x="543" y="73" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>17 contributions on November 19th</title>
   </rect>
-  <rect x="543" y="62" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-11-20: 35 contributions</title>
+  <rect x="543" y="86" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>35 contributions on November 20th</title>
   </rect>
-  <rect x="543" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-21: 0 contributions</title>
+  <rect x="543" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 21st</title>
   </rect>
-  <rect x="543" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-22: 0 contributions</title>
+  <rect x="543" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 22nd</title>
   </rect>
-  <rect x="556" y="10" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-11-23: 5 contributions</title>
+  <rect x="556" y="34" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>5 contributions on November 23rd</title>
   </rect>
-  <rect x="556" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-24: 0 contributions</title>
+  <rect x="556" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 24th</title>
   </rect>
-  <rect x="556" y="36" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2025-11-25: 1 contribution</title>
+  <rect x="556" y="60" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on November 25th</title>
   </rect>
-  <rect x="556" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-26: 0 contributions</title>
+  <rect x="556" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 26th</title>
   </rect>
-  <rect x="556" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-27: 0 contributions</title>
+  <rect x="556" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 27th</title>
   </rect>
-  <rect x="556" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-28: 0 contributions</title>
+  <rect x="556" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 28th</title>
   </rect>
-  <rect x="556" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-29: 0 contributions</title>
+  <rect x="556" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 29th</title>
   </rect>
-  <rect x="569" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-11-30: 0 contributions</title>
+  <rect x="569" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on November 30th</title>
   </rect>
-  <rect x="569" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-01: 0 contributions</title>
+  <rect x="569" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 1st</title>
   </rect>
-  <rect x="569" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-02: 0 contributions</title>
+  <rect x="569" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 2nd</title>
   </rect>
-  <rect x="569" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-03: 0 contributions</title>
+  <rect x="569" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 3rd</title>
   </rect>
-  <rect x="569" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-04: 0 contributions</title>
+  <rect x="569" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 4th</title>
   </rect>
-  <rect x="569" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-05: 0 contributions</title>
+  <rect x="569" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 5th</title>
   </rect>
-  <rect x="569" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-06: 0 contributions</title>
+  <rect x="569" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 6th</title>
   </rect>
-  <rect x="582" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-07: 0 contributions</title>
+  <rect x="582" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 7th</title>
   </rect>
-  <rect x="582" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-08: 0 contributions</title>
+  <rect x="582" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 8th</title>
   </rect>
-  <rect x="582" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-09: 0 contributions</title>
+  <rect x="582" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 9th</title>
   </rect>
-  <rect x="582" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-10: 0 contributions</title>
+  <rect x="582" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 10th</title>
   </rect>
-  <rect x="582" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-11: 0 contributions</title>
+  <rect x="582" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 11th</title>
   </rect>
-  <rect x="582" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-12: 0 contributions</title>
+  <rect x="582" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 12th</title>
   </rect>
-  <rect x="582" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-13: 0 contributions</title>
+  <rect x="582" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 13th</title>
   </rect>
-  <rect x="595" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-14: 0 contributions</title>
+  <rect x="595" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 14th</title>
   </rect>
-  <rect x="595" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-15: 0 contributions</title>
+  <rect x="595" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 15th</title>
   </rect>
-  <rect x="595" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-16: 0 contributions</title>
+  <rect x="595" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 16th</title>
   </rect>
-  <rect x="595" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-17: 0 contributions</title>
+  <rect x="595" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 17th</title>
   </rect>
-  <rect x="595" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-18: 0 contributions</title>
+  <rect x="595" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 18th</title>
   </rect>
-  <rect x="595" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-19: 0 contributions</title>
+  <rect x="595" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 19th</title>
   </rect>
-  <rect x="595" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2025-12-20: 10 contributions</title>
+  <rect x="595" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>10 contributions on December 20th</title>
   </rect>
-  <rect x="608" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-21: 0 contributions</title>
+  <rect x="608" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 21st</title>
   </rect>
-  <rect x="608" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-22: 0 contributions</title>
+  <rect x="608" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 22nd</title>
   </rect>
-  <rect x="608" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-23: 0 contributions</title>
+  <rect x="608" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 23rd</title>
   </rect>
-  <rect x="608" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-24: 0 contributions</title>
+  <rect x="608" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 24th</title>
   </rect>
-  <rect x="608" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-25: 0 contributions</title>
+  <rect x="608" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 25th</title>
   </rect>
-  <rect x="608" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-12-26: 5 contributions</title>
+  <rect x="608" y="99" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>5 contributions on December 26th</title>
   </rect>
-  <rect x="608" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-27: 0 contributions</title>
+  <rect x="608" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 27th</title>
   </rect>
-  <rect x="621" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-28: 0 contributions</title>
+  <rect x="621" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 28th</title>
   </rect>
-  <rect x="621" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2025-12-29: 0 contributions</title>
+  <rect x="621" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on December 29th</title>
   </rect>
-  <rect x="621" y="36" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-12-30: 3 contributions</title>
+  <rect x="621" y="60" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on December 30th</title>
   </rect>
-  <rect x="621" y="49" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2025-12-31: 4 contributions</title>
+  <rect x="621" y="73" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>4 contributions on December 31st</title>
   </rect>
-  <rect x="621" y="62" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2026-01-01: 3 contributions</title>
+  <rect x="621" y="86" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on January 1st</title>
   </rect>
-  <rect x="621" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2026-01-02: 4 contributions</title>
+  <rect x="621" y="99" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>4 contributions on January 2nd</title>
   </rect>
-  <rect x="621" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-03: 0 contributions</title>
+  <rect x="621" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 3rd</title>
   </rect>
-  <rect x="634" y="10" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-04: 0 contributions</title>
+  <rect x="634" y="34" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 4th</title>
   </rect>
-  <rect x="634" y="23" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-05: 26 contributions</title>
+  <rect x="634" y="47" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>26 contributions on January 5th</title>
   </rect>
-  <rect x="634" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-06: 0 contributions</title>
+  <rect x="634" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 6th</title>
   </rect>
-  <rect x="634" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-07: 0 contributions</title>
+  <rect x="634" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 7th</title>
   </rect>
-  <rect x="634" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-08: 0 contributions</title>
+  <rect x="634" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 8th</title>
   </rect>
-  <rect x="634" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-09: 0 contributions</title>
+  <rect x="634" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 9th</title>
   </rect>
-  <rect x="634" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-10: 0 contributions</title>
+  <rect x="634" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 10th</title>
   </rect>
-  <rect x="647" y="10" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2026-01-11: 1 contribution</title>
+  <rect x="647" y="34" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on January 11th</title>
   </rect>
-  <rect x="647" y="23" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-12: 0 contributions</title>
+  <rect x="647" y="47" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 12th</title>
   </rect>
-  <rect x="647" y="36" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-13: 0 contributions</title>
+  <rect x="647" y="60" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 13th</title>
   </rect>
-  <rect x="647" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-14: 0 contributions</title>
+  <rect x="647" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 14th</title>
   </rect>
-  <rect x="647" y="62" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-15: 8 contributions</title>
+  <rect x="647" y="86" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>8 contributions on January 15th</title>
   </rect>
-  <rect x="647" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-16: 0 contributions</title>
+  <rect x="647" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 16th</title>
   </rect>
-  <rect x="647" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-17: 16 contributions</title>
+  <rect x="647" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>16 contributions on January 17th</title>
   </rect>
-  <rect x="660" y="10" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2026-01-18: 1 contribution</title>
+  <rect x="660" y="34" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on January 18th</title>
   </rect>
-  <rect x="660" y="23" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-19: 15 contributions</title>
+  <rect x="660" y="47" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>15 contributions on January 19th</title>
   </rect>
-  <rect x="660" y="36" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2026-01-20: 5 contributions</title>
+  <rect x="660" y="60" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>5 contributions on January 20th</title>
   </rect>
-  <rect x="660" y="49" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-21: 0 contributions</title>
+  <rect x="660" y="73" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 21st</title>
   </rect>
-  <rect x="660" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-22: 0 contributions</title>
+  <rect x="660" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 22nd</title>
   </rect>
-  <rect x="660" y="75" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-23: 22 contributions</title>
+  <rect x="660" y="99" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>22 contributions on January 23rd</title>
   </rect>
-  <rect x="660" y="88" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-24: 25 contributions</title>
+  <rect x="660" y="112" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>25 contributions on January 24th</title>
   </rect>
-  <rect x="673" y="10" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-25: 31 contributions</title>
+  <rect x="673" y="34" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>31 contributions on January 25th</title>
   </rect>
-  <rect x="673" y="23" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-26: 40 contributions</title>
+  <rect x="673" y="47" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>40 contributions on January 26th</title>
   </rect>
-  <rect x="673" y="36" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-27: 22 contributions</title>
+  <rect x="673" y="60" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>22 contributions on January 27th</title>
   </rect>
-  <rect x="673" y="49" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-01-28: 7 contributions</title>
+  <rect x="673" y="73" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>7 contributions on January 28th</title>
   </rect>
-  <rect x="673" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-29: 0 contributions</title>
+  <rect x="673" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 29th</title>
   </rect>
-  <rect x="673" y="75" width="11" height="11" rx="2" ry="2" fill="#C0D9BA">
-    <title>2026-01-30: 6 contributions</title>
+  <rect x="673" y="99" width="11" height="11" rx="2" ry="2" fill="#F3DEB4">
+    <title>6 contributions on January 30th</title>
   </rect>
-  <rect x="673" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
-    <title>2026-01-31: 0 contributions</title>
+  <rect x="673" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
+    <title>0 contributions on January 31st</title>
   </rect>
-  <rect x="686" y="10" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-02-01: 34 contributions</title>
+  <rect x="686" y="34" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>34 contributions on February 1st</title>
   </rect>
-  <rect x="686" y="23" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2026-02-02: 1 contribution</title>
+  <rect x="686" y="47" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
+    <title>1 contribution on February 2nd</title>
   </rect>
-  <rect x="686" y="36" width="11" height="11" rx="2" ry="2" fill="#ABCCA3">
-    <title>2026-02-03: 10 contributions</title>
+  <rect x="686" y="60" width="11" height="11" rx="2" ry="2" fill="#FBD2C6">
+    <title>10 contributions on February 3rd</title>
   </rect>
-  <rect x="686" y="49" width="11" height="11" rx="2" ry="2" fill="#E9B8C1">
-    <title>2026-02-04: 2 contributions</title>
+  <rect x="686" y="73" width="11" height="11" rx="2" ry="2" fill="#C8D9AA">
+    <title>3 contributions on February 4th</title>
   </rect>
-  <rect x="686" y="62" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
+  <rect x="686" y="86" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
     
   </rect>
-  <rect x="686" y="75" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
+  <rect x="686" y="99" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
     
   </rect>
-  <rect x="686" y="88" width="11" height="11" rx="2" ry="2" fill="#EFCAD1">
+  <rect x="686" y="112" width="11" height="11" rx="2" ry="2" fill="#97BAA9">
     
   </rect>
   </g>
+  <text x="555" y="147" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#8b949e">Less</text>
+  
+  <rect x="587" y="139" width="10" height="10" rx="2" ry="2" fill="#97BAA9"/>
+  <rect x="599" y="139" width="10" height="10" rx="2" ry="2" fill="#ABCCA3"/>
+  <rect x="611" y="139" width="10" height="10" rx="2" ry="2" fill="#C8D9AA"/>
+  <rect x="623" y="139" width="10" height="10" rx="2" ry="2" fill="#F3DEB4"/>
+  <rect x="635" y="139" width="10" height="10" rx="2" ry="2" fill="#FBD2C6"/>
+  <text x="653" y="147" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#8b949e">More</text>
 </svg>
