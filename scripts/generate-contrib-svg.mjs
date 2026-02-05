@@ -6,19 +6,19 @@ const USERNAME = "fiona-cai";
 
 // Shades of pink, tuned for light & dark mode
 const PALETTE = [
-  "#ABCCA3", // no activity
+  "#56744E", // no activity
   "#F9C2B8", // lowest
-  "#FBC5BB",
-  "#FDCCC3",
-  "#FFD0C8"  // highest
+  "#FAC9C1",
+  "#FAD1C9",
+  "#FBD8D2"  // highest
 ];
 
 // Opacity increases with activity level (light/dark mode compatible)
 const OPACITY = [
-  0.6,  // level 0: no activity
-  0.79,  // level 1: 1–2 contributions
-  0.86,  // level 2: 3–5
-  0.93,  // level 3: 6–9
+  0.4,  // level 0: no activity
+  0.85,  // level 1: 1–2 contributions
+  0.9,  // level 2: 3–5
+  0.95,  // level 3: 6–9
   1   // level 4: 10+
 ];
 
