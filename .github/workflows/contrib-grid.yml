@@ -2,7 +2,7 @@ name: Generate Contribution Grid SVG
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily UTC
+    - cron: "0 5 * * *" # daily UTC
   workflow_dispatch:
 
 permissions:
