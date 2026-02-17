@@ -119,6 +119,16 @@ function renderSVG(calendar) {
   const weeks = calendar.weeks;
   const totalContributions = calendar.totalContributions ?? 0;
 
+  // Determine "today" in the local timezone.
+  // We will hide any squares whose date is today or later locally so that
+  // the in-progress day doesn't appear at all (no empty square).
+  const now = new Date();
+  const todayLocalStr = [
+    now.getFullYear(),
+    String(now.getMonth() + 1).padStart(2, "0"),
+    String(now.getDate()).padStart(2, "0"),
+  ].join("-");
+
   // Sometimes GitHub returns 52; pad to 53 for consistent width
   const paddedWeeks = [...weeks];
   while (paddedWeeks.length < WEEKS) paddedWeeks.unshift({ contributionDays: [] });
@@ -149,6 +159,13 @@ function renderSVG(calendar) {
 
       const count = day?.contributionCount ?? 0;
       const date = day?.date ?? "";
+
+      // Skip rendering if the calendar date is today or later in the local
+      // timezone — this keeps "today" hidden until it has fully passed.
+      if (date && date >= todayLocalStr) {
+        continue;
+      }
+
       const level = levelFromCount(count);
       const fill = PALETTE[level];
       const opacity = OPACITY[level];
