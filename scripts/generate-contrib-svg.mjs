@@ -157,14 +157,16 @@ function renderSVG(calendar) {
     for (let y = 0; y < DAYS; y++) {
       const day = byWeekday.get(y);
 
-      const count = day?.contributionCount ?? 0;
-      const date = day?.date ?? "";
+      // If GitHub didn't return a day object for this cell, don't render
+      // an "empty" future/placeholder square.
+      if (!day) continue;
+
+      const count = day.contributionCount ?? 0;
+      const date = day.date ?? "";
 
       // Skip rendering if the calendar date is today or later in the local
       // timezone — this keeps "today" hidden until it has fully passed.
-      if (date && date >= todayLocalStr) {
-        continue;
-      }
+      if (date && date >= todayLocalStr) continue;
 
       const level = levelFromCount(count);
       const fill = PALETTE[level];
@@ -174,7 +176,7 @@ function renderSVG(calendar) {
       const px = PAD_X + x * (CELL + GAP);
       const py = gridOffsetY + y * (CELL + GAP);
 
-      const title = date ? formatTooltipDate(date, count) : "";
+      const title = formatTooltipDate(date, count);
 
       rects += `
   <rect x="${px}" y="${py}" width="${CELL}" height="${CELL}" rx="${rx}" ry="${rx}" fill="${fill}" fill-opacity="${opacity}">
