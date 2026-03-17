@@ -6,7 +6,7 @@ const USERNAME = "fiona-cai";
 
 // Shades of pink, tuned for light & dark mode
 const PALETTE = [
-  "#ABCCA3", // no activity
+  "#81A079", // no activity
   "#FAACA3", // lowest
   "#FCBBB4",
   "#FDC9C5",
