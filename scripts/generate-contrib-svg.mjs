@@ -13,22 +13,20 @@ const PALETTE = [
   "#FFD8D6"  // highest
 ];
 
-// Opacity increases with activity level (light/dark mode compatible)
+// Opacity increases with activity level
 const OPACITY = [
-  0.15,  // level 0: no activity
-  0.85,  // level 1: 1–2 contributions
+  0.15, // level 0: no activity
+  0.85, // level 1: 1–2 contributions
   0.9,  // level 2: 3–5
-  0.95,  // level 3: 6–9
-  1   // level 4: 10+
+  0.95, // level 3: 6–9
+  1     // level 4: 10+
 ];
 
-// GitHub-like sizes
 const CELL = 11;
 const GAP = 2;
 const WEEKS = 53;
 const DAYS = 7;
 
-// padding around the grid
 const PAD_X = 10;
 const PAD_Y = 10;
 const HEADER_HEIGHT = 24;
@@ -107,7 +105,6 @@ async function fetchCalendar(token) {
   }
 
   const json = await res.json();
-
   if (json.errors?.length) {
     throw new Error(`GraphQL errors:\n${JSON.stringify(json.errors, null, 2)}`);
   }
@@ -119,17 +116,10 @@ function renderSVG(calendar) {
   const weeks = calendar.weeks;
   const totalContributions = calendar.totalContributions ?? 0;
 
-  // Determine "today" in the local timezone.
-  // We will hide any squares whose date is today or later locally so that
-  // the in-progress day doesn't appear at all (no empty square).
+  // Modified: Using ISO string to determine today's date in YYYY-MM-DD format
   const now = new Date();
-  const todayLocalStr = [
-    now.getFullYear(),
-    String(now.getMonth() + 1).padStart(2, "0"),
-    String(now.getDate()).padStart(2, "0"),
-  ].join("-");
+  const todayStr = now.toISOString().split("T")[0];
 
-  // Sometimes GitHub returns 52; pad to 53 for consistent width
   const paddedWeeks = [...weeks];
   while (paddedWeeks.length < WEEKS) paddedWeeks.unshift({ contributionDays: [] });
   if (paddedWeeks.length > WEEKS) paddedWeeks.splice(0, paddedWeeks.length - WEEKS);
@@ -139,9 +129,8 @@ function renderSVG(calendar) {
   const width = gridWidth;
   const height = HEADER_HEIGHT + gridHeight + LEGEND_HEIGHT;
 
-  // Transparent background so it blends into README
   const bg = "transparent";
-  const textColor = "#8b949e"; // GitHub-style gray, readable on light/dark
+  const textColor = "#8b949e";
 
   let rects = "";
   const gridOffsetY = HEADER_HEIGHT + PAD_Y;
@@ -149,30 +138,25 @@ function renderSVG(calendar) {
   for (let x = 0; x < WEEKS; x++) {
     const week = paddedWeeks[x];
     const days = week.contributionDays ?? [];
-
-    // Create a map weekday -> day data
     const byWeekday = new Map();
     for (const d of days) byWeekday.set(d.weekday, d);
 
     for (let y = 0; y < DAYS; y++) {
       const day = byWeekday.get(y);
-
-      // If GitHub didn't return a day object for this cell, don't render
-      // an "empty" future/placeholder square.
       if (!day) continue;
 
       const count = day.contributionCount ?? 0;
       const date = day.date ?? "";
 
-      // Skip rendering if the calendar date is today or later in the local
-      // timezone — this keeps "today" hidden until it has fully passed.
-      if (date && date >= todayLocalStr) continue;
+      // CHANGED: Use '>' instead of '>=' so that today is included in the render.
+      // This will only hide dates that are strictly in the future.
+      if (date && date > todayStr) continue;
 
       const level = levelFromCount(count);
       const fill = PALETTE[level];
       const opacity = OPACITY[level];
 
-      const rx = 2; // rounded corners like GitHub
+      const rx = 2;
       const px = PAD_X + x * (CELL + GAP);
       const py = gridOffsetY + y * (CELL + GAP);
 
@@ -185,10 +169,7 @@ function renderSVG(calendar) {
     }
   }
 
-  // Summary text: "X contributions in the last year"
   const summaryText = `${totalContributions} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
-
-  // Legend: Less [swatches] More
   const legendY = height - 14;
   const legendSwatchSize = 10;
   const legendGap = 2;
