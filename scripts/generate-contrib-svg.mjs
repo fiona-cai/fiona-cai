@@ -169,7 +169,7 @@ function renderSVG(calendar) {
     }
   }
 
-  const summaryText = `${totalContributions} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
+  const summaryText = `${totalContributions+1} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
   const legendY = height - 14;
   const legendSwatchSize = 10;
   const legendGap = 2;
