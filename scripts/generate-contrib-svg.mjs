@@ -8,18 +8,20 @@ const USERNAME = "fiona-cai";
 const PALETTE = [
   "#79AD6C", // no activity
   "#FAACA3", // lowest
-  "#FCBBB4",
-  "#FDC9C5",
+  "#FBB7B0",
+  "#FDC2BD",
+  "#FECDC9",
   "#FFD8D6"  // highest
 ];
 
 // Opacity increases with activity level
 const OPACITY = [
-  0.15, // level 0: no activity
-  0.85, // level 1: 1–2 contributions
-  0.9,  // level 2: 3–5
-  0.95, // level 3: 6–9
-  1     // level 4: 10+
+  0.15, // level 0
+  0.8, // level 1
+  0.85, // level 2
+  0.9,  // level 3
+  0.95, // level 4
+  1     // level 5
 ];
 
 const CELL = 11;
@@ -34,10 +36,11 @@ const LEGEND_HEIGHT = 28;
 
 function levelFromCount(count) {
   if (count === 0) return 0;
-  if (count <= 3) return 1;
-  if (count <= 9) return 2;
-  if (count <= 18) return 3;
-  return 4;
+  if (count <= 2) return 1;
+  if (count <= 4) return 2;
+  if (count <= 8) return 3;
+  if (count <= 16) return 4;
+  return 5;
 }
 
 function svgEscape(s) {
