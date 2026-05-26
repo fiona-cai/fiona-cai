@@ -8,8 +8,8 @@
 
 cs @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 - 🌱 interested in human-computer interaction and ml/ai; specifically ai-assistive tools -- i create for people ♥
-- 🌱 currently coding up my [personal site](https://fiona-cai.vercel.app/) and hopping back on the hackathon grind
-- 🌱 chair [@YRHacks](https://github.com/yrhacks) (biggest 🇨🇦 hs hackathon), 2 time high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
+- 🌱 currently interning [@Shopify](https://github.com/Shopify) and organizing [@Hack the North](https://github.com/hackathon) (biggest 🇨🇦 hackathon)
+- ☁️ prev: chair [@YRHacks](https://github.com/yrhacks) (biggest 🇨🇦 hs hackathon) and 2x high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
 - 🍵 matcha connoisseur (and hopefully future sushi connoisseur)
 
 <div style="display: flex; justify-content: space-between; width: 100;">
