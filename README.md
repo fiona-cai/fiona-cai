@@ -10,7 +10,7 @@ cs @ [UWaterloo](https://uwaterloo.ca/) + schulich leader:
 - 🌱 interested in human-computer interaction and ml/ai; specifically ai-assistive tools -- i create for people ♥
 - 🌱 currently interning [@Shopify](https://github.com/Shopify) and organizing [@Hack the North](https://github.com/hackathon) (biggest 🇨🇦 hackathon)
 - ☁️ prev: 2x high school software engineering intern [@RBC](https://www.rbc.com/about-rbc.html)
-- 🍵 matcha connoisseur (and hopefully future sushi connoisseur)
+- 🍵 matcha connoisseur and sushi lover
 
 <div style="display: flex; justify-content: space-between; width: 100;">
   <div style="display: block">
