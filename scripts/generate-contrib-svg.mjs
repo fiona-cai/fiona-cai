@@ -70,11 +70,21 @@ function formatTooltipDate(dateStr, count) {
   return `${count} contribution${count === 1 ? "" : "s"} on ${month} ${day}`;
 }
 
-async function fetchCalendar(token) {
+async function fetchContributions(token) {
+  // The contributionCalendar already aggregates ALL contribution types per day
+  // (commits, issues, pull requests, and reviews) — not just commits.
+  // We also pull the per-type totals and restrictedContributionsCount so the
+  // headline number can include private-repo work that the calendar omits when
+  // the request isn't authenticated as the user (e.g. the Actions bot token).
   const query = `
     query($login: String!) {
       user(login: $login) {
         contributionsCollection {
+          totalCommitContributions
+          totalIssueContributions
+          totalPullRequestContributions
+          totalPullRequestReviewContributions
+          restrictedContributionsCount
           contributionCalendar {
             totalContributions
             weeks {
@@ -112,12 +122,19 @@ async function fetchCalendar(token) {
     throw new Error(`GraphQL errors:\n${JSON.stringify(json.errors, null, 2)}`);
   }
 
-  return json.data.user.contributionsCollection.contributionCalendar;
+  return json.data.user.contributionsCollection;
 }
 
-function renderSVG(calendar) {
+function renderSVG(contributions) {
+  const calendar = contributions.contributionCalendar;
   const weeks = calendar.weeks;
-  const totalContributions = calendar.totalContributions ?? 0;
+
+  // All contribution types, including private/restricted work. The calendar
+  // total covers public commits + issues + PRs + reviews; restrictedContributionsCount
+  // adds private contributions the calendar can't see (it's 0 when they're already
+  // included), so this never double-counts.
+  const totalContributions =
+    (calendar.totalContributions ?? 0) + (contributions.restrictedContributionsCount ?? 0);
 
   // Modified: Using ISO string to determine today's date in YYYY-MM-DD format
   const now = new Date();
@@ -172,7 +189,7 @@ function renderSVG(calendar) {
     }
   }
 
-  const summaryText = `${totalContributions+1} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
+  const summaryText = `${totalContributions} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
   const legendY = height - 14;
   const legendSwatchSize = 10;
   const legendGap = 2;
@@ -207,8 +224,8 @@ async function main() {
   const token = process.env.GH_TOKEN;
   if (!token) throw new Error("Missing GH_TOKEN env var.");
 
-  const calendar = await fetchCalendar(token);
-  const svg = renderSVG(calendar);
+  const contributions = await fetchContributions(token);
+  const svg = renderSVG(contributions);
 
   const outDir = path.join(process.cwd(), "assets");
   const outFile = path.join(outDir, "contributions.svg");
