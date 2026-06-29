@@ -71,13 +71,15 @@ function formatTooltipDate(dateStr, count) {
 }
 
 async function fetchContributions(token) {
-  // The contributionCalendar already aggregates ALL contribution types
-  // (commits, issues, pull requests, and reviews) — not just commits — so its
-  // totalContributions is the same all-types number GitHub shows on the profile.
+  // The contributionCalendar aggregates ALL public contribution types
+  // (commits, issues, pull requests, and reviews) — not just commits.
+  // restrictedContributionsCount adds private/restricted work (e.g. SSO-gated
+  // org repos) that the public graph can't display, for the headline total.
   const query = `
     query($login: String!) {
       user(login: $login) {
         contributionsCollection {
+          restrictedContributionsCount
           contributionCalendar {
             totalContributions
             weeks {
@@ -122,9 +124,12 @@ function renderSVG(contributions) {
   const calendar = contributions.contributionCalendar;
   const weeks = calendar.weeks;
 
-  // All contribution types: the calendar total already counts commits, issues,
-  // pull requests, and reviews (the number GitHub shows on the profile).
-  const totalContributions = calendar.totalContributions ?? 0;
+  // Public contributions (the graph total) already cover commits, issues, PRs,
+  // and reviews. Private/restricted work is added on top for an all-inclusive
+  // headline; the breakdown below keeps the split explicit so it's transparent.
+  const publicContributions = calendar.totalContributions ?? 0;
+  const privateContributions = contributions.restrictedContributionsCount ?? 0;
+  const totalContributions = publicContributions + privateContributions;
 
   // Today's date in Toronto time (YYYY-MM-DD) so the grid hides only days that
   // are actually in the future locally. en-CA formats as ISO-style YYYY-MM-DD.
@@ -180,6 +185,7 @@ function renderSVG(contributions) {
   }
 
   const summaryText = `${totalContributions} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
+  const breakdownText = `${publicContributions} public · ${privateContributions} private`;
   const legendY = height - 14;
   const legendSwatchSize = 10;
   const legendGap = 2;
@@ -200,6 +206,7 @@ function renderSVG(contributions) {
      aria-label="GitHub contributions graph for ${USERNAME}">
   <rect width="100%" height="100%" fill="${bg}" />
   <text x="0" y="16" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="${textColor}">${svgEscape(summaryText)}</text>
+  <text x="0" y="${legendY}" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="${textColor}">${svgEscape(breakdownText)}</text>
   <g>
     ${rects}
   </g>
