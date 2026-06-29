@@ -71,14 +71,18 @@ function formatTooltipDate(dateStr, count) {
 }
 
 async function fetchContributions(token) {
-  // The contributionCalendar aggregates ALL public contribution types
-  // (commits, issues, pull requests, and reviews) — not just commits.
-  // restrictedContributionsCount adds private/restricted work (e.g. SSO-gated
-  // org repos) that the public graph can't display, for the headline total.
+  // Pull every contribution type so the headline can be broken down by what the
+  // contributions actually are. These buckets are disjoint and sum to the
+  // all-inclusive total; restrictedContributionsCount is private/SSO-gated work.
   const query = `
     query($login: String!) {
       user(login: $login) {
         contributionsCollection {
+          totalCommitContributions
+          totalIssueContributions
+          totalPullRequestContributions
+          totalPullRequestReviewContributions
+          totalRepositoryContributions
           restrictedContributionsCount
           contributionCalendar {
             totalContributions
@@ -124,12 +128,20 @@ function renderSVG(contributions) {
   const calendar = contributions.contributionCalendar;
   const weeks = calendar.weeks;
 
-  // Public contributions (the graph total) already cover commits, issues, PRs,
-  // and reviews. Private/restricted work is added on top for an all-inclusive
-  // headline; the breakdown below keeps the split explicit so it's transparent.
-  const publicContributions = calendar.totalContributions ?? 0;
-  const privateContributions = contributions.restrictedContributionsCount ?? 0;
-  const totalContributions = publicContributions + privateContributions;
+  // Break the year down by what the contributions actually are. The buckets are
+  // disjoint, so the all-inclusive total is their sum. NOTE: the public graph
+  // total already includes the private/restricted work, so we sum the parts
+  // rather than add private on top of the graph total (that double-counts).
+  // Zero buckets are dropped from the displayed breakdown.
+  const buckets = [
+    { label: "commits", count: contributions.totalCommitContributions ?? 0 },
+    { label: "issues",  count: contributions.totalIssueContributions ?? 0 },
+    { label: "PRs",     count: contributions.totalPullRequestContributions ?? 0 },
+    { label: "reviews", count: contributions.totalPullRequestReviewContributions ?? 0 },
+    { label: "repos",   count: contributions.totalRepositoryContributions ?? 0 },
+    { label: "private", count: contributions.restrictedContributionsCount ?? 0 },
+  ];
+  const totalContributions = buckets.reduce((sum, b) => sum + b.count, 0);
 
   // Today's date in Toronto time (YYYY-MM-DD) so the grid hides only days that
   // are actually in the future locally. en-CA formats as ISO-style YYYY-MM-DD.
@@ -185,7 +197,7 @@ function renderSVG(contributions) {
   }
 
   const summaryText = `${totalContributions} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
-  const breakdownText = `${publicContributions} public · ${privateContributions} private`;
+  const breakdownText = buckets.filter(b => b.count > 0).map(b => `${b.count} ${b.label}`).join(" · ");
   const legendY = height - 14;
   const legendSwatchSize = 10;
   const legendGap = 2;
