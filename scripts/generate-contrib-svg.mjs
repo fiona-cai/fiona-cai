@@ -71,20 +71,13 @@ function formatTooltipDate(dateStr, count) {
 }
 
 async function fetchContributions(token) {
-  // The contributionCalendar already aggregates ALL contribution types per day
-  // (commits, issues, pull requests, and reviews) — not just commits.
-  // We also pull the per-type totals and restrictedContributionsCount so the
-  // headline number can include private-repo work that the calendar omits when
-  // the request isn't authenticated as the user (e.g. the Actions bot token).
+  // The contributionCalendar already aggregates ALL contribution types
+  // (commits, issues, pull requests, and reviews) — not just commits — so its
+  // totalContributions is the same all-types number GitHub shows on the profile.
   const query = `
     query($login: String!) {
       user(login: $login) {
         contributionsCollection {
-          totalCommitContributions
-          totalIssueContributions
-          totalPullRequestContributions
-          totalPullRequestReviewContributions
-          restrictedContributionsCount
           contributionCalendar {
             totalContributions
             weeks {
@@ -129,16 +122,13 @@ function renderSVG(contributions) {
   const calendar = contributions.contributionCalendar;
   const weeks = calendar.weeks;
 
-  // All contribution types, including private/restricted work. The calendar
-  // total covers public commits + issues + PRs + reviews; restrictedContributionsCount
-  // adds private contributions the calendar can't see (it's 0 when they're already
-  // included), so this never double-counts.
-  const totalContributions =
-    (calendar.totalContributions ?? 0) + (contributions.restrictedContributionsCount ?? 0);
+  // All contribution types: the calendar total already counts commits, issues,
+  // pull requests, and reviews (the number GitHub shows on the profile).
+  const totalContributions = calendar.totalContributions ?? 0;
 
-  // Modified: Using ISO string to determine today's date in YYYY-MM-DD format
-  const now = new Date();
-  const todayStr = now.toISOString().split("T")[0];
+  // Today's date in Toronto time (YYYY-MM-DD) so the grid hides only days that
+  // are actually in the future locally. en-CA formats as ISO-style YYYY-MM-DD.
+  const todayStr = new Date().toLocaleDateString("en-CA", { timeZone: "America/Toronto" });
 
   const paddedWeeks = [...weeks];
   while (paddedWeeks.length < WEEKS) paddedWeeks.unshift({ contributionDays: [] });
