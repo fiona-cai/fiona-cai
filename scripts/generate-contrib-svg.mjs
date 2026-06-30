@@ -195,10 +195,19 @@ function renderSVG(contributions) {
 
       const title = formatTooltipDate(date, count);
 
+      // Draw the day's total contribution count in the center of the square.
+      // pointer-events="none" lets the hover pass through to the rect's tooltip.
+      const cx = px + CELL / 2;
+      const cy = py + CELL / 2;
+      const numLabel = count > 0
+        ? `
+  <text x="${cx}" y="${cy}" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="6" font-weight="600" fill="#3d1d1b" pointer-events="none">${count}</text>`
+        : "";
+
       rects += `
   <rect x="${px}" y="${py}" width="${CELL}" height="${CELL}" rx="${rx}" ry="${rx}" fill="${fill}" fill-opacity="${opacity}">
     ${title ? `<title>${svgEscape(title)}</title>` : ""}
-  </rect>`;
+  </rect>${numLabel}`;
     }
   }
 
