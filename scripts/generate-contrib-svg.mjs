@@ -31,7 +31,7 @@ const DAYS = 7;
 
 const PAD_X = 10;
 const PAD_Y = 10;
-const HEADER_HEIGHT = 24;
+const HEADER_HEIGHT = 4;
 const LEGEND_HEIGHT = 28;
 
 function levelFromCount(count) {
@@ -128,27 +128,6 @@ function renderSVG(contributions) {
   const calendar = contributions.contributionCalendar;
   const weeks = calendar.weeks;
 
-  // The canonical "contributions in the last year" IS the graph total — the same
-  // number GitHub shows on the profile — so use it directly for the headline.
-  // The named public buckets come from the per-type fields; GitHub's own per-type
-  // fields don't fully sum to the graph total (they run a few short), and the
-  // graph total already folds in private/restricted work, so everything in the
-  // total beyond the named public types is reported as the private remainder.
-  // This makes the breakdown sum exactly to the headline.
-  const totalContributions = calendar.totalContributions ?? 0;
-  const publicBuckets = [
-    { label: "commits", count: contributions.totalCommitContributions ?? 0 },
-    { label: "issues",  count: contributions.totalIssueContributions ?? 0 },
-    { label: "PRs",     count: contributions.totalPullRequestContributions ?? 0 },
-    { label: "reviews", count: contributions.totalPullRequestReviewContributions ?? 0 },
-    { label: "repos",   count: contributions.totalRepositoryContributions ?? 0 },
-  ];
-  const namedPublic = publicBuckets.reduce((sum, b) => sum + b.count, 0);
-  const buckets = [
-    ...publicBuckets,
-    { label: "private", count: Math.max(0, totalContributions - namedPublic) },
-  ];
-
   // Today's date in Toronto time (YYYY-MM-DD) so the grid hides only days that
   // are actually in the future locally. en-CA formats as ISO-style YYYY-MM-DD.
   const todayStr = new Date().toLocaleDateString("en-CA", { timeZone: "America/Toronto" });
@@ -211,8 +190,6 @@ function renderSVG(contributions) {
     }
   }
 
-  const summaryText = `${totalContributions} contribution${totalContributions === 1 ? "" : "s"} in the last year`;
-  const breakdownText = buckets.filter(b => b.count > 0).map(b => `${b.count} ${b.label}`).join(" · ");
   const legendY = height - 14;
   const legendSwatchSize = 10;
   const legendGap = 2;
@@ -232,8 +209,6 @@ function renderSVG(contributions) {
      role="img"
      aria-label="GitHub contributions graph for ${USERNAME}">
   <rect width="100%" height="100%" fill="${bg}" />
-  <text x="0" y="16" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="${textColor}">${svgEscape(summaryText)}</text>
-  <text x="0" y="${legendY}" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="${textColor}">${svgEscape(breakdownText)}</text>
   <g>
     ${rects}
   </g>
