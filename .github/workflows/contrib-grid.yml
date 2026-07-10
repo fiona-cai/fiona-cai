@@ -26,7 +26,8 @@ jobs:
 
       - name: Generate SVG
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use CONTRIBUTIONS_TOKEN when available so commit search can see private org repos.
+          GH_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN || github.token }}
         run: node scripts/generate-contrib-svg.mjs
 
       - name: Commit and push

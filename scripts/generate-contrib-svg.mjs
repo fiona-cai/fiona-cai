@@ -84,6 +84,14 @@ async function fetchContributions(token) {
           totalPullRequestReviewContributions
           totalRepositoryContributions
           restrictedContributionsCount
+          commitContributionsByRepository(maxRepositories: 100) {
+            contributions(first: 100) {
+              nodes {
+                occurredAt
+                commitCount
+              }
+            }
+          }
           contributionCalendar {
             totalContributions
             weeks {
@@ -124,6 +132,91 @@ async function fetchContributions(token) {
   return json.data.user.contributionsCollection;
 }
 
+function calendarDates(calendar) {
+  return calendar.weeks.flatMap((week) =>
+    (week.contributionDays ?? []).map((day) => day.date).filter(Boolean)
+  );
+}
+
+function formatTorontoDate(date) {
+  return date.toLocaleDateString("en-CA", { timeZone: "America/Toronto" });
+}
+
+async function fetchAuthoredCommitActivityCounts(token, calendar) {
+  const dates = calendarDates(calendar);
+  if (dates.length === 0) return new Map();
+
+  const from = dates[0];
+  const to = dates[dates.length - 1];
+  const counts = new Map();
+
+  // GitHub's contribution calendar intentionally omits some authored commit
+  // activity, such as commits that only appear in PR branches. The number inside
+  // each square should match daily activity, so fetch authored commits separately
+  // and only add the ones not already represented by the canonical calendar.
+  for (let page = 1; page <= 10; page++) {
+    const url = new URL("https://api.github.com/search/commits");
+    url.searchParams.set("q", `author:${USERNAME} author-date:${from}..${to}`);
+    url.searchParams.set("per_page", "100");
+    url.searchParams.set("page", String(page));
+
+    const res = await fetch(url, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github.cloak-preview+json"
+      }
+    });
+
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`GitHub commit search error: ${res.status}\n${text}`);
+    }
+
+    const json = await res.json();
+    for (const item of json.items ?? []) {
+      const authoredAt = item.commit?.author?.date;
+      if (!authoredAt) continue;
+
+      const date = formatTorontoDate(new Date(authoredAt));
+      counts.set(date, (counts.get(date) ?? 0) + 1);
+    }
+
+    if ((json.items ?? []).length < 100) break;
+  }
+
+  return counts;
+}
+
+function visibleCommitContributionCounts(contributions) {
+  const counts = new Map();
+
+  for (const repo of contributions.commitContributionsByRepository ?? []) {
+    for (const node of repo.contributions?.nodes ?? []) {
+      if (!node.occurredAt) continue;
+
+      const date = formatTorontoDate(new Date(node.occurredAt));
+      counts.set(date, (counts.get(date) ?? 0) + (node.commitCount ?? 0));
+    }
+  }
+
+  return counts;
+}
+
+function applyAuthoredCommitActivityCounts(contributions, authoredCommitCounts) {
+  if (authoredCommitCounts.size === 0) return;
+
+  const visibleCommitCounts = visibleCommitContributionCounts(contributions);
+
+  for (const week of contributions.contributionCalendar.weeks) {
+    for (const day of week.contributionDays ?? []) {
+      const authoredCommitCount = authoredCommitCounts.get(day.date) ?? 0;
+      const visibleCommitCount = visibleCommitCounts.get(day.date) ?? 0;
+      const extraAuthoredCommits = Math.max(0, authoredCommitCount - visibleCommitCount);
+      day.activityCount = (day.contributionCount ?? 0) + extraAuthoredCommits;
+    }
+  }
+}
+
 function renderSVG(contributions) {
   const calendar = contributions.contributionCalendar;
   const weeks = calendar.weeks;
@@ -157,7 +250,7 @@ function renderSVG(contributions) {
       const day = byWeekday.get(y);
       if (!day) continue;
 
-      const count = day.contributionCount ?? 0;
+      const count = day.activityCount ?? day.contributionCount ?? 0;
       const date = day.date ?? "";
 
       // CHANGED: Use '>' instead of '>=' so that today is included in the render.
@@ -174,19 +267,10 @@ function renderSVG(contributions) {
 
       const title = formatTooltipDate(date, count);
 
-      // Draw the day's total contribution count in the center of the square.
-      // pointer-events="none" lets the hover pass through to the rect's tooltip.
-      const cx = px + CELL / 2;
-      const cy = py + CELL / 2;
-      const numLabel = count > 0
-        ? `
-  <text x="${cx}" y="${cy}" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, sans-serif" font-size="6" font-weight="600" fill="#3d1d1b" pointer-events="none">${count}</text>`
-        : "";
-
       rects += `
   <rect x="${px}" y="${py}" width="${CELL}" height="${CELL}" rx="${rx}" ry="${rx}" fill="${fill}" fill-opacity="${opacity}">
     ${title ? `<title>${svgEscape(title)}</title>` : ""}
-  </rect>${numLabel}`;
+  </rect>`;
     }
   }
 
@@ -224,6 +308,12 @@ async function main() {
   if (!token) throw new Error("Missing GH_TOKEN env var.");
 
   const contributions = await fetchContributions(token);
+  const authoredCommitCounts = await fetchAuthoredCommitActivityCounts(
+    token,
+    contributions.contributionCalendar
+  );
+  applyAuthoredCommitActivityCounts(contributions, authoredCommitCounts);
+
   const svg = renderSVG(contributions);
 
   const outDir = path.join(process.cwd(), "assets");
