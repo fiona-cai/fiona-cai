@@ -1099,8 +1099,11 @@
   <rect x="673" y="92" width="11" height="11" rx="2" ry="2" fill="#79AD6C" fill-opacity="0.15">
     <title>0 contributions on August 29th</title>
   </rect>
-  <rect x="686" y="14" width="11" height="11" rx="2" ry="2" fill="#79AD6C" fill-opacity="0.15">
-    <title>0 contributions on August 30th</title>
+  <rect x="686" y="14" width="11" height="11" rx="2" ry="2" fill="#FAACA3" fill-opacity="0.8">
+    <title>1 contribution on August 30th</title>
+  </rect>
+  <rect x="686" y="27" width="11" height="11" rx="2" ry="2" fill="#79AD6C" fill-opacity="0.15">
+    <title>0 contributions on August 31st</title>
   </rect>
   </g>
   <text x="555" y="127" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#8b949e">Less</text>
